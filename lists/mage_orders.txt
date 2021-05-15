@@ -1,0 +1,7 @@
+Adamantine Arrow,20
+Free Council,25
+Guardians of the Veil,15
+Mysterium,20
+Silver Ladder,20
+Seers of the Throne,60
+Apostate,5

@@ -1,0 +1,1 @@
+Adjective, Noun, Adverb and Verb lists provided by: http://www.ashley-bovan.co.uk/words/partsofspeech.html

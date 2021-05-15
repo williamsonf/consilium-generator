@@ -27,7 +27,7 @@ def gen(path, gnosis):
     results[random.choice(path_list[path])] += 1 #we randomly increase one to 3
     results[random.choice(non_ruling)] = 1 #we give them 1 point in a non-ruling arcana
     if gnosis > 1: #if gnosis is 1, then we've already finished
-        points = gnosis * 3
+        points = gnosis * 2
         while points > 0:
             choice = random.choice(arcana_list)
             if results[choice] < other_max or (results[choice] < arcana_max and check_max(arcana_max, results) == 0):

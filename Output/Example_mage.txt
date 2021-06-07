@@ -1,0 +1,300 @@
+The Spectroscopical Uplink of Calorific Multiplet (Gnosis: 1, Path: Thyrsus, Order: Silver Ladder)
+Arcana: Spirit 3, Life 2, Death 1
+
+Beginner of Multicuspids (Gnosis: 2, Path: Obrimos, Order: Seers of the Throne)
+Arcana: Forces 3, Prime 3, Mind 2, Matter 1, Spirit 1
+
+The Spectroscopy of Administrant Hoplites (Gnosis: 7, Path: Moros, Order: Silver Ladder)
+Arcana: Death 4, Space 3, Forces 2, Life 2, Matter 2, Mind 2, Prime 2, Fate 1, Spirit 1, Time 1
+
+The Arsenal of Unforewarned Rainstorms (Gnosis: 3, Path: Obrimos, Order: Seers of the Throne)
+Arcana: Prime 3, Forces 2, Space 2, Fate 1, Life 1, Matter 1, Mind 1, Spirit 1
+
+Daimon of Whipworm (Gnosis: 1, Path: Obrimos, Order: Adamantine Arrow)
+Arcana: Forces 3, Prime 2, Space 1
+
+The Phonolite (Gnosis: 3, Path: Obrimos, Order: Seers of the Throne)
+Arcana: Prime 4, Forces 3, Spirit 2, Death 1, Mind 1, Time 1
+
+Sabean (Gnosis: 3, Path: Moros, Order: Free Council)
+Arcana: Death 3, Matter 3, Prime 2, Spirit 2, Forces 1, Space 1
+
+The Butchering of Drysalteries (Gnosis: 2, Path: Mastigos, Order: Seers of the Throne)
+Arcana: Mind 3, Space 2, Time 2, Death 1, Life 1, Spirit 1
+
+Perspectivism (Gnosis: 4, Path: Obrimos, Order: Free Council)
+Arcana: Prime 4, Forces 3, Time 3, Death 2, Life 1, Spirit 1
+
+Cytoplasm (Gnosis: 4, Path: Moros, Order: Seers of the Throne)
+Arcana: Death 4, Forces 3, Matter 3, Mind 1, Prime 1, Space 1, Time 1
+
+Cobnut of Offset (Gnosis: 1, Path: Mastigos, Order: Free Council)
+Arcana: Mind 3, Space 2, Matter 1
+
+The Shotgun (Gnosis: 4, Path: Acanthus, Order: Seers of the Throne)
+Arcana: Space 4, Time 4, Fate 2, Forces 2, Mind 2
+
+Multiplicate Slinger (Gnosis: 4, Path: Acanthus, Order: Apostate)
+Arcana: Time 4, Mind 3, Fate 2, Spirit 2, Death 1, Forces 1, Matter 1
+
+Ford of Orpine (Gnosis: 1, Path: Mastigos, Order: Seers of the Throne)
+Arcana: Space 3, Mind 2, Matter 1
+
+Ravioli (Gnosis: 4, Path: Thyrsus, Order: Mysterium)
+Arcana: Spirit 4, Life 2, Matter 2, Space 2, Fate 1, Mind 1, Prime 1, Time 1
+
+Torc of Bubbly Pushes (Gnosis: 3, Path: Thyrsus, Order: Seers of the Throne)
+Arcana: Life 4, Spirit 3, Death 2, Mind 1, Space 1, Time 1
+
+Argent Mesquite (Gnosis: 3, Path: Obrimos, Order: Seers of the Throne)
+Arcana: Prime 3, Forces 2, Life 2, Time 2, Death 1, Matter 1, Mind 1
+
+The Millenarianism (Gnosis: 4, Path: Mastigos, Order: Silver Ladder)
+Arcana: Space 3, Death 2, Forces 2, Mind 2, Prime 2, Time 2, Life 1
+
+Self-Importance of Salopian Danzig (Gnosis: 1, Path: Moros, Order: Guardians of the Veil)
+Arcana: Death 3, Matter 2, Life 1
+
+Viz of Antibacterial (Gnosis: 1, Path: Moros, Order: Apostate)
+Arcana: Matter 3, Death 2, Life 1
+
+Lynne of Pragmatics (Gnosis: 1, Path: Mastigos, Order: Seers of the Throne)
+Arcana: Space 3, Mind 2, Forces 1
+
+Pretended Corinthian of Formulists (Gnosis: 3, Path: Thyrsus, Order: Mysterium)
+Arcana: Life 3, Spirit 3, Prime 2, Fate 1, Forces 1, Matter 1, Mind 1
+
+The Subwarden (Gnosis: 3, Path: Obrimos, Order: Free Council)
+Arcana: Prime 4, Space 3, Forces 2, Mind 2, Death 1
+
+Double-Chinned Foul-Up (Gnosis: 5, Path: Mastigos, Order: Seers of the Throne)
+Arcana: Space 5, Prime 3, Life 2, Mind 2, Death 1, Fate 1, Forces 1, Spirit 1
+
+The Emarginate Intendment of Figuration (Gnosis: 4, Path: Mastigos, Order: Seers of the Throne)
+Arcana: Space 4, Forces 2, Mind 2, Death 1, Fate 1, Life 1, Matter 1, Spirit 1, Time 1
+
+Inadvisability of Mattins (Gnosis: 2, Path: Obrimos, Order: Free Council)
+Arcana: Forces 3, Prime 3, Death 1, Life 1, Matter 1, Time 1
+
+Cicada (Gnosis: 2, Path: Mastigos, Order: Mysterium)
+Arcana: Space 3, Life 2, Mind 2, Forces 1, Matter 1, Spirit 1
+
+Task (Gnosis: 4, Path: Obrimos, Order: Seers of the Throne)
+Arcana: Forces 4, Life 4, Prime 3, Mind 2, Time 1
+
+Coeditor (Gnosis: 2, Path: Acanthus, Order: Guardians of the Veil)
+Arcana: Time 3, Fate 2, Prime 2, Life 1, Matter 1, Space 1
+
+The Creuse of Nights (Gnosis: 3, Path: Mastigos, Order: Adamantine Arrow)
+Arcana: Space 4, Mind 3, Fate 1, Forces 1, Prime 1, Spirit 1, Time 1
+
+The Alcoholometer of Puff (Gnosis: 5, Path: Obrimos, Order: Guardians of the Veil)
+Arcana: Forces 5, Prime 4, Fate 2, Matter 2, Death 1, Life 1, Time 1
+
+Neutralist (Gnosis: 3, Path: Mastigos, Order: Seers of the Throne)
+Arcana: Life 3, Space 3, Fate 2, Mind 2, Matter 1, Spirit 1
+
+Antic of Yearning (Gnosis: 2, Path: Thyrsus, Order: Free Council)
+Arcana: Forces 3, Spirit 3, Life 2, Matter 1, Time 1
+
+Supertanker of Tumbril (Gnosis: 3, Path: Moros, Order: Seers of the Throne)
+Arcana: Death 4, Matter 3, Mind 2, Forces 1, Life 1, Spirit 1
+
+The Gag-Bit of Leathered Jamestown (Gnosis: 5, Path: Acanthus, Order: Adamantine Arrow)
+Arcana: Death 3, Time 3, Fate 2, Matter 2, Space 2, Forces 1, Life 1, Mind 1, Prime 1
+
+The Tautonym (Gnosis: 4, Path: Mastigos, Order: Adamantine Arrow)
+Arcana: Mind 4, Life 2, Space 2, Time 2, Fate 1, Forces 1, Matter 1, Spirit 1
+
+Worcestershire of Dogfishes (Gnosis: 6, Path: Acanthus, Order: Free Council)
+Arcana: Fate 5, Life 4, Time 3, Death 2, Forces 1, Mind 1, Prime 1, Spirit 1
+
+The Fairing of Adaptiveness (Gnosis: 4, Path: Mastigos, Order: Adamantine Arrow)
+Arcana: Space 3, Spirit 3, Death 2, Life 2, Mind 2, Fate 1, Prime 1
+
+The Traducianistic Oaxaca of Unhallowed Importance (Gnosis: 3, Path: Obrimos, Order: Seers of the Throne)
+Arcana: Fate 3, Prime 3, Forces 2, Death 1, Matter 1, Spirit 1, Time 1
+
+Prod of Pustulations (Gnosis: 4, Path: Mastigos, Order: Free Council)
+Arcana: Space 4, Mind 3, Fate 2, Forces 1, Life 1, Prime 1, Spirit 1, Time 1
+
+Addresser of Bleachers (Gnosis: 2, Path: Thyrsus, Order: Free Council)
+Arcana: Spirit 3, Fate 2, Forces 2, Life 2, Time 1
+
+The Nerita (Gnosis: 3, Path: Thyrsus, Order: Adamantine Arrow)
+Arcana: Life 3, Spirit 3, Space 2, Time 2, Fate 1, Mind 1
+
+Rumble of Foredating Recoupments (Gnosis: 2, Path: Moros, Order: Mysterium)
+Arcana: Death 3, Matter 3, Mind 3, Life 1
+
+Aitchbone of Trimorphous Gemmation (Gnosis: 2, Path: Thyrsus, Order: Mysterium)
+Arcana: Life 3, Forces 2, Spirit 2, Fate 1, Space 1, Time 1
+
+Pertinence of Hive (Gnosis: 6, Path: Mastigos, Order: Mysterium)
+Arcana: Mind 3, Prime 3, Space 3, Forces 2, Matter 2, Death 1, Fate 1, Life 1, Spirit 1, Time 1
+
+Dribbler of Peptic Boa (Gnosis: 5, Path: Acanthus, Order: Seers of the Throne)
+Arcana: Fate 4, Spirit 4, Time 3, Forces 2, Matter 1, Prime 1, Space 1
+
+The Luxury of Unstrained Bergamot (Gnosis: 2, Path: Acanthus, Order: Seers of the Throne)
+Arcana: Fate 3, Life 2, Spirit 2, Time 2, Prime 1
+
+Hash of Let-Out Blight (Gnosis: 1, Path: Moros, Order: Free Council)
+Arcana: Death 3, Matter 2, Life 1
+
+The Hawkweed (Gnosis: 2, Path: Thyrsus, Order: Free Council)
+Arcana: Life 3, Spirit 3, Space 2, Fate 1, Forces 1
+
+The Pose of Supernumerary Beadledom (Gnosis: 3, Path: Thyrsus, Order: Seers of the Throne)
+Arcana: Spirit 4, Life 2, Matter 2, Space 2, Forces 1, Mind 1
+
+Inscribable Sesquicarbonate of Contraband (Gnosis: 2, Path: Acanthus, Order: Free Council)
+Arcana: Time 3, Fate 2, Life 2, Matter 1, Mind 1, Prime 1
+
+The Fetcher (Gnosis: 4, Path: Acanthus, Order: Adamantine Arrow)
+Arcana: Fate 4, Time 4, Space 3, Death 1, Life 1, Prime 1
+
+Grump of Resilience (Gnosis: 4, Path: Thyrsus, Order: Adamantine Arrow)
+Arcana: Spirit 4, Life 2, Space 2, Fate 1, Forces 1, Matter 1, Mind 1, Prime 1, Time 1
+
+Disutility of Specialism (Gnosis: 1, Path: Obrimos, Order: Seers of the Throne)
+Arcana: Prime 3, Forces 2, Mind 1
+
+Hawkish First (Gnosis: 3, Path: Obrimos, Order: Seers of the Throne)
+Arcana: Forces 4, Matter 3, Prime 3, Death 1, Life 1
+
+Tarsier of Cephalization (Gnosis: 3, Path: Obrimos, Order: Seers of the Throne)
+Arcana: Forces 3, Prime 3, Death 2, Spirit 2, Space 1, Time 1
+
+Cerographical Pursuer of Mimer (Gnosis: 1, Path: Mastigos, Order: Seers of the Throne)
+Arcana: Mind 3, Space 2, Time 1
+
+The Edged Zoomorphism (Gnosis: 3, Path: Obrimos, Order: Adamantine Arrow)
+Arcana: Forces 4, Prime 3, Fate 1, Matter 1, Mind 1, Space 1, Spirit 1
+
+Conductorship (Gnosis: 3, Path: Mastigos, Order: Adamantine Arrow)
+Arcana: Mind 4, Life 2, Prime 2, Space 2, Fate 1, Spirit 1
+
+The Babushka (Gnosis: 3, Path: Obrimos, Order: Free Council)
+Arcana: Forces 4, Prime 3, Death 2, Fate 1, Matter 1, Mind 1
+
+The Surveyor of Rejoinder (Gnosis: 1, Path: Acanthus, Order: Seers of the Throne)
+Arcana: Time 3, Fate 2, Space 1
+
+Papalise (Gnosis: 5, Path: Mastigos, Order: Silver Ladder)
+Arcana: Mind 3, Spirit 3, Life 2, Matter 2, Space 2, Time 2, Death 1, Fate 1
+
+The Prerequisite Neoteric (Gnosis: 2, Path: Mastigos, Order: Apostate)
+Arcana: Mind 3, Space 3, Fate 1, Life 1, Prime 1, Spirit 1
+
+Disheritor (Gnosis: 5, Path: Thyrsus, Order: Seers of the Throne)
+Arcana: Life 3, Spirit 3, Death 2, Forces 2, Matter 2, Space 2, Mind 1, Prime 1
+
+The Heald (Gnosis: 3, Path: Obrimos, Order: Seers of the Throne)
+Arcana: Prime 4, Forces 3, Time 3, Death 1, Life 1
+
+Tenth Grandfather of Baronetages (Gnosis: 5, Path: Obrimos, Order: Silver Ladder)
+Arcana: Forces 5, Fate 2, Life 2, Matter 2, Prime 2, Time 2, Death 1
+
+The Veranda of Subsidiary Pebas (Gnosis: 4, Path: Mastigos, Order: Free Council)
+Arcana: Mind 4, Space 3, Matter 2, Time 2, Forces 1, Life 1, Spirit 1
+
+Handsaw of Attuning Recompense (Gnosis: 4, Path: Mastigos, Order: Seers of the Throne)
+Arcana: Mind 4, Space 3, Matter 2, Spirit 2, Fate 1, Forces 1, Life 1
+
+The Spectrometric Althing (Gnosis: 5, Path: Moros, Order: Seers of the Throne)
+Arcana: Matter 5, Death 3, Mind 2, Time 2, Fate 1, Life 1, Space 1, Spirit 1
+
+Coolie (Gnosis: 2, Path: Mastigos, Order: Mysterium)
+Arcana: Mind 3, Space 3, Matter 2, Death 1, Forces 1
+
+The Digest (Gnosis: 5, Path: Obrimos, Order: Seers of the Throne)
+Arcana: Fate 3, Forces 3, Prime 3, Mind 2, Spirit 2, Death 1, Matter 1, Space 1
+
+The Polybasic Ioniser (Gnosis: 3, Path: Acanthus, Order: Seers of the Throne)
+Arcana: Fate 4, Matter 3, Time 3, Mind 1, Spirit 1
+
+Alphorn (Gnosis: 4, Path: Moros, Order: Seers of the Throne)
+Arcana: Matter 4, Death 3, Life 2, Spirit 2, Fate 1, Prime 1, Time 1
+
+Guardhouse (Gnosis: 4, Path: Obrimos, Order: Mysterium)
+Arcana: Forces 4, Death 2, Prime 2, Time 2, Fate 1, Matter 1, Mind 1, Space 1
+
+The Overkill of Churning Oratorio (Gnosis: 2, Path: Thyrsus, Order: Free Council)
+Arcana: Forces 3, Spirit 3, Life 2, Death 1, Mind 1
+
+Nox of Inalienable Decimations (Gnosis: 4, Path: Acanthus, Order: Free Council)
+Arcana: Fate 3, Time 3, Spirit 2, Death 1, Forces 1, Life 1, Mind 1, Prime 1, Space 1
+
+Regrant of Mastigophoran (Gnosis: 3, Path: Thyrsus, Order: Seers of the Throne)
+Arcana: Spirit 4, Life 3, Death 1, Fate 1, Forces 1, Mind 1, Time 1
+
+The Scholiast of Stichometric Preparator (Gnosis: 3, Path: Obrimos, Order: Seers of the Throne)
+Arcana: Death 4, Forces 3, Prime 2, Fate 1, Mind 1, Space 1
+
+The Undset of Literalizing Watchwords (Gnosis: 5, Path: Moros, Order: Mysterium)
+Arcana: Death 4, Forces 3, Matter 3, Spirit 2, Time 2, Prime 1, Space 1
+
+Hangnail of Hypophosphorous Kilobyte (Gnosis: 1, Path: Thyrsus, Order: Mysterium)
+Arcana: Spirit 3, Life 2, Mind 1
+
+The Cafeteria (Gnosis: 5, Path: Mastigos, Order: Adamantine Arrow)
+Arcana: Mind 3, Space 3, Death 2, Fate 2, Spirit 2, Time 2, Forces 1, Prime 1
+
+The Heterodactylous Submanager of Isomagnetic Inexecution (Gnosis: 3, Path: Obrimos, Order: Silver Ladder)
+Arcana: Prime 4, Forces 3, Death 1, Fate 1, Life 1, Mind 1, Time 1
+
+Lick (Gnosis: 3, Path: Obrimos, Order: Free Council)
+Arcana: Prime 4, Death 2, Forces 2, Spirit 2, Mind 1, Time 1
+
+Thor (Gnosis: 4, Path: Moros, Order: Mysterium)
+Arcana: Matter 4, Prime 4, Death 3, Fate 2, Life 1
+
+The Hypocycloid (Gnosis: 3, Path: Acanthus, Order: Guardians of the Veil)
+Arcana: Fate 4, Time 3, Forces 2, Spirit 2, Prime 1
+
+The Capping (Gnosis: 1, Path: Obrimos, Order: Free Council)
+Arcana: Prime 3, Forces 2, Time 1
+
+Tellurion of Sesquipedalian (Gnosis: 2, Path: Acanthus, Order: Adamantine Arrow)
+Arcana: Time 3, Fate 2, Life 2, Death 1, Matter 1, Prime 1
+
+Purest Cutch of Flaring Kinesthesia (Gnosis: 5, Path: Thyrsus, Order: Adamantine Arrow)
+Arcana: Life 5, Prime 3, Spirit 3, Mind 2, Fate 1, Forces 1, Space 1
+
+Cotter (Gnosis: 3, Path: Mastigos, Order: Mysterium)
+Arcana: Mind 4, Space 3, Forces 1, Life 1, Matter 1, Prime 1, Time 1
+
+Brut Document of Superlative Dodecaphonists (Gnosis: 2, Path: Thyrsus, Order: Free Council)
+Arcana: Spirit 3, Forces 2, Life 2, Fate 1, Mind 1, Prime 1
+
+Sparklet of Prehnite (Gnosis: 2, Path: Obrimos, Order: Apostate)
+Arcana: Forces 3, Prime 2, Spirit 2, Death 1, Matter 1, Time 1
+
+Nudism (Gnosis: 1, Path: Acanthus, Order: Mysterium)
+Arcana: Fate 3, Time 2, Matter 1
+
+Holst of Rishi (Gnosis: 4, Path: Mastigos, Order: Apostate)
+Arcana: Space 3, Spirit 3, Life 2, Mind 2, Forces 1, Matter 1, Prime 1, Time 1
+
+Planometer (Gnosis: 5, Path: Mastigos, Order: Mysterium)
+Arcana: Space 4, Death 3, Time 3, Fate 2, Mind 2, Matter 1, Spirit 1
+
+Rocaille (Gnosis: 5, Path: Acanthus, Order: Seers of the Throne)
+Arcana: Time 4, Fate 3, Death 2, Forces 2, Life 1, Matter 1, Mind 1, Space 1, Spirit 1
+
+Passepied (Gnosis: 3, Path: Acanthus, Order: Mysterium)
+Arcana: Death 3, Fate 3, Prime 2, Time 2, Space 1, Spirit 1
+
+Mediant (Gnosis: 4, Path: Acanthus, Order: Adamantine Arrow)
+Arcana: Time 4, Fate 3, Death 2, Prime 2, Matter 1, Mind 1, Space 1
+
+The Awing Thaumaturgy of Grovelling Rind (Gnosis: 3, Path: Moros, Order: Mysterium)
+Arcana: Death 4, Fate 2, Matter 2, Forces 1, Mind 1, Spirit 1, Time 1
+
+Quibbling of Right-Angled Middy (Gnosis: 2, Path: Moros, Order: Silver Ladder)
+Arcana: Death 3, Matter 2, Forces 1, Life 1, Prime 1, Spirit 1, Time 1
+
+The Also-Ran of Indiscriminative Obtestations (Gnosis: 2, Path: Thyrsus, Order: Seers of the Throne)
+Arcana: Life 3, Fate 2, Spirit 2, Time 2, Mind 1
+

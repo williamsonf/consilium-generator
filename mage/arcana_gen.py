@@ -12,7 +12,7 @@ def gen(path, gnosis):
                  'Obrimos' : ['Forces', 'Prime'],
                  'Thyrsus' : ['Spirit', 'Life']}
     arcana_list = ['Fate', 'Time', 'Mind', 'Space', 'Matter', 'Death', 'Forces', 'Prime', 'Spirit', 'Life']
-    sorted(arcana_list)
+    arcana_list = sorted(arcana_list)
     non_ruling = [] #we now identify all the non-ruling arcana
     for field in arcana_list:
         if field not in path_list[path]:
@@ -61,7 +61,7 @@ def get_other_max(gnosis):
 def check_max(arcana_max, arcana_list):
     results = []
     for n in arcana_list:
-        if n == arcana_max:
+        if arcana_list[n] == arcana_max:
             results.append(1)
         else:
             results.append(0)

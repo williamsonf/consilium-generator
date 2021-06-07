@@ -11,8 +11,7 @@ readable plain text file.
 @author: Fred
 '''
 import json
-import mage.mage_main as mage
-import mage.formatter as mageformat
+import mage
 
 if __name__ == '__main__':
     city = input('Please name the city you are generating:')
@@ -39,6 +38,14 @@ if __name__ == '__main__':
         #And now we are putting the stuff into a human readable format for actual use.
         print('Dumping Mage: the Awakening NPCs in readable format to ' + file_name + '.txt')
         with open('./output/'+file_name+'.txt', 'x') as f:
-            f.write(mageformat.formatter(results))
+            f.write(mage.formatter(results))
     else:
         print('Error: Selected option was accepted, but has no associated methods.')
+    graphing = input('Would you like to generate graphs of this city? If so, type "y". Any other response will exit.').lower()
+    if graphing == 'y':
+        if game == 'vampire':
+            pass
+        elif game == 'werewolf':
+            pass
+        elif game == 'mage':
+            mage.grapher('./output/'+file_name, results)
